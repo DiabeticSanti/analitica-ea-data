@@ -1,0 +1,6 @@
+pandas
+numpy
+pyarrow
+huggingface_hub
+datasets
+jupyter
